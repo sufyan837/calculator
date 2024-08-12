@@ -1,2 +1,3 @@
-# calculator
-html,css,javascript
+# calculator assignment
+internal html,css and javascript file.
+
